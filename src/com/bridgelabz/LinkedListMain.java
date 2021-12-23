@@ -14,6 +14,8 @@ public class LinkedListMain {
 		list.display();
 		list.pop();
 		list.display();
+		list.searchNode(30);
+		list.display();
 	}
 
 }
