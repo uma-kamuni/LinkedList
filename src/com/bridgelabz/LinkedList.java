@@ -31,7 +31,7 @@ public class LinkedList {
 	        if(head==null){
 	            System.out.println("List is Empty and Can't be delete");
 	        }
-	        System.out.println("Deleting the first element");
+	        System.out.println("Deleting the last element");
 	        head=head.next;
 	    }
 	public void display() {
